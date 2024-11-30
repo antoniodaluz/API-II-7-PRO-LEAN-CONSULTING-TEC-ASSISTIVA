@@ -46,3 +46,17 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 - Definição do produto  ✅
   
    [![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84)](https://www.youtube.com/watch?v=f5sGJYAKyZ4)
+
+# Sprint 2
+- Pesquisa de mercado ✅
+- Requisitos do produto ✅
+- Normas técnicas e patentes ✅
+- Benchmarking de mercado ✅
+- Demais informações úteis do produto ✅
+
+[![image](https://github.com/user-attachments/assets/d75a37ff-f876-4237-b501-904b860c6189)](https://www.youtube.com/watch?v=DSDbJWipnTo)
+
+  
+
+
+

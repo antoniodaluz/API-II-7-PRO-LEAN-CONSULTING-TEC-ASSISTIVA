@@ -60,7 +60,7 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 
 - Mapa mental✅
 - Análise funcional✅
--  morfológicas✅
+-  Morfológicas✅
 - Mapa conceitual✅
   
 -[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)
@@ -72,5 +72,34 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
   
 ![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)
 
+### Produto 
+- Sprint 1
+  - Definição do produto  
+  
+- Sprint 2
+  - Requisitos do produto 
+  - Normas técnicas e patentes 
+  - Benchmarking de mercado 
+- Sprint 3
+  - Análise funcional
+  -  Morfológicas
+   - Mapa conceitual
+- Sprint 4
+  - Dimensionamento
+  - Projeto detalhado do produto
+  - Matérias-primas 
+  - Definição de processos e tratamentos
+
+### Tecnológias Específicas/Apoio
+- Excel
+- Jira Software
+- PowerPoint
+- Canva
+- Microsoft Teams
+- Git Projects
+- Scrum
+- Brainstorm
+
+# Backlog do produto
 
 

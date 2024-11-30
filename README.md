@@ -47,4 +47,4 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 - Como reduzir custos ✅
 - Explorar maneiras de aumentar as vendas ✅
   
-   [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/3e9b2d34-48ed-4516-b25f-a95fb1ad7933)](https://www.youtube.com/watch?v=oVGBSKrMFJM)
+   [![image](![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84))](https://www.youtube.com/watch?v=f5sGJYAKyZ4)

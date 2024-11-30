@@ -56,7 +56,20 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 
 [![image](https://github.com/user-attachments/assets/d75a37ff-f876-4237-b501-904b860c6189)](https://www.youtube.com/watch?v=DSDbJWipnTo)
 
+
+- Mapa mental✅
+- Análise funcional✅
+-  morfológicas✅
+- Mapa conceitual✅
   
+- [![image](https://github.com/user-attachments/assets/60883201-95ea-4a88-b13f-48fdd281053a)](https://youtu.be/PuS3qKE2MBc)
+
+- Dimensionamento✅
+- Projeto detalhado do produto✅
+- Matérias-primas✅ 
+- Definição de processos e tratamentos✅
+  
+![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)
 
 
 

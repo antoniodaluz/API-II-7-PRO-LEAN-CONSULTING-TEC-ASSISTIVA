@@ -42,3 +42,9 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 
 # 🎯Objetivo  
 O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhorando a qualidade de vida desses indivíduos. Essas soluções são projetadas para atender necessidades específicas, como facilitar atividades diárias, superar limitações físicas ou sensoriais e ampliar a capacidade de comunicação e interação social.
+# Sprint 1
+- SWOT ✅
+- Como reduzir custos ✅
+- Explorar maneiras de aumentar as vendas ✅
+  
+   [![image](https://github.com/7-Pro-Lean-Consulting/Horario/assets/127999546/3e9b2d34-48ed-4516-b25f-a95fb1ad7933)](https://www.youtube.com/watch?v=oVGBSKrMFJM)

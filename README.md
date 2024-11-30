@@ -54,7 +54,7 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 - Benchmarking de mercado ✅
 - Demais informações úteis do produto ✅
 
-[![image](https://github.com/user-attachments/assets/d75a37ff-f876-4237-b501-904b860c6189)](https://www.youtube.com/watch?v=DSDbJWipnTo)
+[![image](https://github.com/user-attachments/assets/66a534f4-ce0f-4246-88c6-c2bd7736a055)](https://www.youtube.com/watch?v=DSDbJWipnTo)
 
 
 - Mapa mental✅
@@ -62,7 +62,7 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 -  morfológicas✅
 - Mapa conceitual✅
   
-- [![image](https://github.com/user-attachments/assets/60883201-95ea-4a88-b13f-48fdd281053a)](https://youtu.be/PuS3qKE2MBc)
+-[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)
 
 - Dimensionamento✅
 - Projeto detalhado do produto✅

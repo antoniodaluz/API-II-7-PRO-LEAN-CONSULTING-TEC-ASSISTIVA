@@ -44,34 +44,40 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 # 🎯Objetivo  
 O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhorando a qualidade de vida desses indivíduos. Essas soluções são projetadas para atender necessidades específicas, como facilitar atividades diárias, superar limitações físicas ou sensoriais e ampliar a capacidade de comunicação e interação social.
 
-# Sprint 1
+# Funcionalidades e Demonstrações das Sprints
+
+## Sprint 1
 
   [![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84)](https://www.youtube.com/watch?v=f5sGJYAKyZ4)
 
-# Sprint 2
-
-[![image](https://github.com/user-attachments/assets/66a534f4-ce0f-4246-88c6-c2bd7736a055)](https://www.youtube.com/watch?v=DSDbJWipnTo)
-
-# Sprint 3
+## Sprint 3
 -[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)
 
-  # Sprint 4
+ ## Sprint 4
 ![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)
 
 
+## Tecnologias Utilizadas
 
-  - Matérias-primas 
-  - Definição de processos e tratamentos
+### Produto 
+- Sprint 1
+  - Planejamento Inicial
+- Sprint 2
+  - Pesquisa de Mercado
+- Sprint 3
+  - Design
+- Sprint 4
+  - Dimensionamento e Processos
 
 ### Tecnológias Específicas/Apoio
-- Excel
-- Jira Software
-- PowerPoint
-- Canva
-- Microsoft Teams
-- Git Projects
-- Scrum
-- Brainstorm
+ - Excel
+ - Jira Software
+ - PowerPoint
+ - Canva
+ - Microsoft Teams
+ - Git Projects
+ - Scrum
+ - Brainstorm
 
   # Mindset Digital
   
@@ -105,12 +111,14 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 - Sprint 2
   - Requisitos do produto 
   - Normas técnicas e patentes 
-  - Benchmarking de mercado 
+  - Benchmarking de mercado
+   
 - Sprint 3
   - Análise funcional
   -  Morfológicas
    - Mapa conceitual
    - Matriz de decisão
+     
 - Sprint 4
   - Dimensionamento
   - Projeto detalhado do produto

@@ -83,16 +83,10 @@ Promovemos a criação de soluções inovadoras e originais para superar os desa
 Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints [Clique aqui](https://tecnologiaassistiva.atlassian.net/jira/core/projects/DDTA/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
-# Cronograma das Sprints
-
-
-
 
 # Backlog do produto
 
-
 ![image](https://github.com/user-attachments/assets/1c8ecfc8-f48c-44f1-a53f-c046b1a59434)
-
 
 ![image](https://github.com/user-attachments/assets/6cf94bde-79d3-4ff4-8a26-608105435054)
 
@@ -102,8 +96,8 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 ![githu](https://github.com/user-attachments/assets/302a6796-fc4a-467c-ad15-d7ec28fbca8f)
 
+![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)]
 
-![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)
 ### Produto 
 - Sprint 1
   - Definição do produto  

@@ -160,6 +160,8 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
+
+
 # Autores
 | Função         | Nome              | LinkedIn & GitHub                                                                                         |
 |----------------|-------------------|-----------------------------------------------------------------------------------------------------------|
@@ -170,4 +172,3 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 | Team Member    | Mateus Nakahara   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-nakahara-0974791bb/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Matheusnak) |
 | Team Member    | Reinaldo Ramos    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
 | Team Member    | Vinicius de Sá    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Viniciusluizi) |
-

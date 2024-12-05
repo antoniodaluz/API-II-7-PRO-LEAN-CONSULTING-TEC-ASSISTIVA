@@ -77,9 +77,19 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
   
 Promovemos a criação de soluções inovadoras e originais para superar os desafios, aproveitando ao máximo os recursos digitais disponíveis. Além disso, incentivamos o desenvolvimento da habilidade de adaptação e rapidez, garantindo respostas eficazes às mudanças e oportunidades que surgem ao longo do processo.
 
+# Cronograma das Sprints
+
+## Cronograma
+Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
+
+#### Cronograma das Sprints [Clique aqui](https://tecnologiaassistiva.atlassian.net/jira/core/projects/DDTA/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
+# Cronograma das Sprints
+
+
+
+
 # Backlog do produto
 
-https://tecnologiaassistiva.atlassian.net/jira/core/projects/DDTA/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false
 
 ![image](https://github.com/user-attachments/assets/1c8ecfc8-f48c-44f1-a53f-c046b1a59434)
 

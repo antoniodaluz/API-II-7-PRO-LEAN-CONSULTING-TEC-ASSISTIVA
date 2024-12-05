@@ -100,6 +100,8 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 ![image](https://github.com/user-attachments/assets/1bd44b70-3b8f-4ae1-a6cb-3bb2d5f9b87b)
 
+## Burndown
+
 ![githu](https://github.com/user-attachments/assets/302a6796-fc4a-467c-ad15-d7ec28fbca8f)
 
 ![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)]
@@ -124,3 +126,38 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
   - Projeto detalhado do produto
   -  Matérias-primas 
   - Definição de processos e tratamentos
+ 
+    # Competências desenvolvidas
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Mooble Mobly | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Canva | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Kira software | ★ ★ ★ ★ ★ ★ ★  ☆ ☆ |
+
+</details>
+
+## Soft Skill (saber comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ☆ ☆ ☆ ☆ ☆ ☆ ☆  ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+
+</details>
+

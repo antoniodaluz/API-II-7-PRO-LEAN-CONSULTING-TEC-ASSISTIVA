@@ -79,6 +79,7 @@ Promovemos a criação de soluções inovadoras e originais para superar os desa
 
 # Backlog do produto
 
+https://tecnologiaassistiva.atlassian.net/jira/core/projects/DDTA/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false
 
 ![image](https://github.com/user-attachments/assets/1c8ecfc8-f48c-44f1-a53f-c046b1a59434)
 

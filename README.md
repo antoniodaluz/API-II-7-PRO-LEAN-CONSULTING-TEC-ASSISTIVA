@@ -73,7 +73,12 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 - Scrum
 - Brainstorm
 
+  # Mindset Digital
+  
+Promovemos a criação de soluções inovadoras e originais para superar os desafios, aproveitando ao máximo os recursos digitais disponíveis. Além disso, incentivamos o desenvolvimento da habilidade de adaptação e rapidez, garantindo respostas eficazes às mudanças e oportunidades que surgem ao longo do processo.
+
 # Backlog do produto
+
 
 ![image](https://github.com/user-attachments/assets/1c8ecfc8-f48c-44f1-a53f-c046b1a59434)
 

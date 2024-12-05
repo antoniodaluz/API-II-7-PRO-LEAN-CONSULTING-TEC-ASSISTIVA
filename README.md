@@ -160,4 +160,14 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 | Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
 
 </details>
+# Autores
+| Função         | Nome              | LinkedIn & GitHub                                                                                         |
+|----------------|-------------------|-----------------------------------------------------------------------------------------------------------|
+| Product Owner  | Marcelo           | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-henrique-santos-5436181b7) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/marcelohenrique2508) |
+| Scrum Master   | Caíque Matos      | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/caique-matos-santos-748a90150/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/caiquematos1) |
+| Team Member    | Antoni da Luz     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/antonio-da-luz-a21263235/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/) |
+| Team Member    | Gabriel Cunha     | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/gabriel-cunha-a0747018b) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gmcunha98750012) |
+| Team Member    | Mateus Nakahara   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-nakahara-0974791bb/) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Matheusnak) |
+| Team Member    | Reinaldo Ramos    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](#) |
+| Team Member    | Vinicius de Sá    | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Viniciusluizi) |
 

@@ -109,6 +109,7 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 
 ![image](https://github.com/user-attachments/assets/b37d86fe-846d-4e2a-9597-fe3bdb8cb9bb)
 
-![image](https://github.com/user-attachments/assets/e9904a51-8d0c-483c-a22f-4609f909431a)
+![image](https://github.com/user-attachments/assets/1bd44b70-3b8f-4ae1-a6cb-3bb2d5f9b87b)
+
 
 

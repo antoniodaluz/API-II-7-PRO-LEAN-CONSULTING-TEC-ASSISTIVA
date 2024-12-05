@@ -108,24 +108,24 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 ### Produto 
 - Sprint 1
-  - Definição do produto  
+  - Definição do produto ✅ 
   
 - Sprint 2
-  - Requisitos do produto 
-  - Normas técnicas e patentes 
-  - Benchmarking de mercado
+  - Requisitos do produto ✅
+  - Normas técnicas e patentes ✅
+  - Benchmarking de mercado✅
    
 - Sprint 3
-  - Análise funcional
-  -  Morfológicas
-   - Mapa conceitual
-   - Matriz de decisão
+  - Análise funcional✅
+  -  Morfológicas✅
+   - Mapa conceitual✅
+   - Matriz de decisão✅
      
 - Sprint 4
-  - Dimensionamento
-  - Projeto detalhado do produto
-  -  Matérias-primas 
-  - Definição de processos e tratamentos
+  - Dimensionamento✅
+  - Projeto detalhado do produto✅
+  -  Matérias-primas✅ 
+  - Definição de processos e tratamentos✅
  
     # Competências desenvolvidas
 ## Hard Skill (saber tecnológico)

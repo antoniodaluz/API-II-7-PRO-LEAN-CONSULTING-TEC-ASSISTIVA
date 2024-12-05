@@ -43,50 +43,23 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 
 # 🎯Objetivo  
 O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhorando a qualidade de vida desses indivíduos. Essas soluções são projetadas para atender necessidades específicas, como facilitar atividades diárias, superar limitações físicas ou sensoriais e ampliar a capacidade de comunicação e interação social.
+
 # Sprint 1
-- Definição do produto  ✅
-  
-   [![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84)](https://www.youtube.com/watch?v=f5sGJYAKyZ4)
+
+  [![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84)](https://www.youtube.com/watch?v=f5sGJYAKyZ4)
 
 # Sprint 2
-- Pesquisa de mercado ✅
-- Requisitos do produto ✅
-- Normas técnicas e patentes ✅
-- Benchmarking de mercado ✅
-- Demais informações úteis do produto ✅
 
 [![image](https://github.com/user-attachments/assets/66a534f4-ce0f-4246-88c6-c2bd7736a055)](https://www.youtube.com/watch?v=DSDbJWipnTo)
 
-
-- Mapa mental✅
-- Análise funcional✅
--  Morfológicas✅
-- Mapa conceitual✅
-  
+# Sprint 3
 -[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)
 
-- Dimensionamento✅
-- Projeto detalhado do produto✅
-- Matérias-primas✅ 
-- Definição de processos e tratamentos✅
-  
+  # Sprint 4
 ![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)
 
-### Produto 
-- Sprint 1
-  - Definição do produto  
-  
-- Sprint 2
-  - Requisitos do produto 
-  - Normas técnicas e patentes 
-  - Benchmarking de mercado 
-- Sprint 3
-  - Análise funcional
-  -  Morfológicas
-   - Mapa conceitual
-- Sprint 4
-  - Dimensionamento
-  - Projeto detalhado do produto
+
+
   - Matérias-primas 
   - Definição de processos e tratamentos
 
@@ -115,4 +88,21 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 
 
 ![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)
-
+### Produto 
+- Sprint 1
+  - Definição do produto  
+  
+- Sprint 2
+  - Requisitos do produto 
+  - Normas técnicas e patentes 
+  - Benchmarking de mercado 
+- Sprint 3
+  - Análise funcional
+  -  Morfológicas
+   - Mapa conceitual
+   - Matriz de decisão
+- Sprint 4
+  - Dimensionamento
+  - Projeto detalhado do produto
+  -  Matérias-primas 
+  - Definição de processos e tratamentos

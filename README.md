@@ -102,4 +102,6 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 
 # Backlog do produto
 
+![image](https://github.com/user-attachments/assets/f7528d49-f7c2-4c4b-8504-5c3602f4f2cd)
+
 

@@ -28,7 +28,7 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 | -------------- | ------------ | ---------- | --------------- | 
 | Kick Off       | 09/09/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%201/Formaliza%C3%A7%C3%A3o%20Equipe%20%207%20Pro%20Lean%202.pdf) | 
 | 01             | 29/09/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%201/RELAT%C3%93RIO%201.pdf) |
-| 02             | 20/10/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%202/Relat%C3%B3rio%20sprint%202.pdf) |
+| 02             | 20/10/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%202/Relat%C3%B3rio%202%20.pdf) |
 | 03             | 11/11/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Relatorio.do.projeto.sprint.3.pdf) |
 | 04             | 01/12/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%204%20do%20projeto%20integrador%20.pdf) |
 | Feira de Soluções |12/12/2024  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 

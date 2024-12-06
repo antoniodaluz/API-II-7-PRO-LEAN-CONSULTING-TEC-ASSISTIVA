@@ -111,7 +111,7 @@ Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto
 
 ![githu](https://github.com/user-attachments/assets/302a6796-fc4a-467c-ad15-d7ec28fbca8f)
 
-![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)]
+![gif2](https://github.com/user-attachments/assets/5accc1b0-8283-4d19-a127-27cb35a11067)
 
 ### Produto 
 - Sprint 1

@@ -89,6 +89,8 @@ Promovemos a criação de soluções inovadoras e originais para superar os desa
 Ao clicar abaixo você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
 #### Cronograma das Sprints [Clique aqui](https://tecnologiaassistiva.atlassian.net/jira/core/projects/DDTA/list?filter=updatedDate%20%3E%3D%20-1w&hideDone=false)
+### Relatório de Itens Criados vs Itens Resolvidos
+![download (2)](https://github.com/user-attachments/assets/baafc63e-f03e-4267-90e8-c538b8d630a0)
 
 # Backlog do produto
 

@@ -30,7 +30,7 @@ Propõe-se a criação de um dispositivo voltado para pessoas com deficiência, 
 | 01             | 29/09/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%201/RELAT%C3%93RIO%201.pdf) |
 | 02             | 20/10/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%202/Relat%C3%B3rio%202%20.pdf) |
 | 03             | 11/11/2024   | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/sprint%203/Relatorio.do.projeto.sprint.3.pdf) |
-| 04             | 01/12/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%203/Relat%C3%B3rio%203.pdf) |
+| 04             | 01/12/2024   | Concluído  | [Ver Relatório](https://github.com/antoniodaluz/API-II-7-PRO-LEAN-CONSULTING-TEC-ASSISTIVA/blob/main/Sprint%204/Relatorio_Dispositivo_Condromalacia%204.pdf) |
 | Feira de Soluções |12/12/2024  | Concluído  | [Ver Relatório](https://github.com/7-Pro-Lean-Consulting/Horario/blob/main/Sprint%204/Relat%C3%B3rio%20Final.pdf)  | 
 
 # 🎓Micro Certificações 

@@ -49,6 +49,11 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 ## Sprint 1
 
   [![image](https://github.com/user-attachments/assets/44916945-6bd5-4091-81dd-7897dd524a84)](https://www.youtube.com/watch?v=f5sGJYAKyZ4)
+  
+  ## Sprint 2
+  
+   [![image](https://github.com/user-attachments/assets/fbb6d855-8a92-4d66-87fb-43fc5717b166)](https://youtu.be/DSDbJWipnTo?si=QLj14V3cQ-3P4dGX)
+
 
 ## Sprint 3
 -[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)

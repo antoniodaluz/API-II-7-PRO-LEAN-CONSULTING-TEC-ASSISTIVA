@@ -59,7 +59,7 @@ O objetivo é proporcionar maior autonomia, acessibilidade e inclusão, melhoran
 -[![image](https://github.com/user-attachments/assets/8eed28a1-4ee7-4862-8e9d-777fa74efab9)](https://youtu.be/PuS3qKE2MBc)
 
  ## Sprint 4
-![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)
+-[![image](https://github.com/user-attachments/assets/ef46bc59-2a8e-4326-99f0-72d8c9f801eb)](https://youtu.be/E4cW-sSaFoQ)
 
 
 ## Tecnologias Utilizadas
